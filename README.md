@@ -1,2 +1,3 @@
 # google-homepage
-<h1>bla</h1>
+Project HTML/CSS
+http://theodinproject.com/web-development-101/html-css?ref=lc-pb
