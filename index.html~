@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Google.com</title>
+	<link rel="stylesheet" type="text/css" href="style.css"></link>
+</head>
+<body>
+	<div class="header">
+		<ul>
+			<li><a href="https://plus.google.com/?gpsrc=ogpy0&tab=wX">+You</a></li>
+			<li><a href="https://mail.google.com/mail/?tab=wm">Gmail</a></li>
+			<li><a href="https://www.google.com/imghp?hl=en&tab=wi&ei=vcW7VIegAoOFPY3ggZgH&ved=0CAQQqi4oAg">Images</a></li>
+			<li position="relative" top="-50px"><img src="apps-icon.png" alt="Apps"></li>
+			<li class="signin"><a href="https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/%3Fgfe_rd%3Dcr%26ei%3DSq67VLK5J5TC4Qbim4DAAQ%26gws_rd%3Dssl,cr%26fg%3D1">Sign In</a></li>
+		</ul>
+	</div>
+	<div class="image"><a href="www.google.com"><img width="269" height="95" style="padding-top:112px" src="https://www.google.com/images/srpr/logo11w.png"/></a></div>
+	<input class="form" type="text">
+	<input class="search" type="submit" value="Google Search">
+	<input class="lucky" type="submit" value="I'm feeling lucky">
+	<div class="footer">
+		<ul class="l_footer">
+			<li><a href="https://www.google.com/intl/en/ads/?fg1">Advertising</a></li>
+			<li><a href="https://www.google.com/services?fg1">Business</a></li>
+			<li><a href="https://www.google.com/intl/en/about.html?fg1">About</a></li>
+		</ul>
+		<ul class="r_footer">
+			<li><a href="https://www.google.com/intl/en/policies/privacy/?fg=1">Privacy</a></li>
+			<li><a href="https://www.google.com/intl/en/policies/terms/?fg=1">Terms</a></li>
+			<li><a href="https://www.google.com/preferences?hl=en">Settings</a></li>
+			<li><a href="https://www.google.com/setprefdomain?prefdom=DE&prev=https://www.google.de/?gfe_rd%3Dcr%26ei%3DSq67VLK5J5TC4Qbim4DAAQ%26gws_rd%3Dssl,cr&sig=0_wBg5rV8IWxjJGjGCdf78NWMtJ4Q%3D&fg=1">Use Google.de</a></li>
+		</ul>
+	</div>
+</body>
+</html>
